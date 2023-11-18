@@ -6,7 +6,5 @@ pytom/
 
 model-01.pkl
 *.pkl
-*.ipynb
-!bigram.ipynb
 
 wizard_of_oz.txt
