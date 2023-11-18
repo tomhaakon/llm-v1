@@ -3,7 +3,8 @@
 cuda/
 openwebtext/
 pytom/
-
+temp_extracted/
+processed_texts/
 model-01.pkl
 *.pkl
 
