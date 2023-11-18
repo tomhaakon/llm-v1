@@ -5,7 +5,9 @@ openwebtext/
 pytom/
 temp_extracted/
 processed_texts/
+runs/
 model-01.pkl
 *.pkl
-
+finetune_train.txt 
+finetune_val.txt
 wizard_of_oz.txt
